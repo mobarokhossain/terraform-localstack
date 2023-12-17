@@ -1,0 +1,7 @@
+# Initialize terraform: terraform init
+
+# Reformat tf file content: terraform fmt
+
+# Validate content: terraform validate
+
+# Apply changes to aws: terraform apply
